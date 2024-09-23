@@ -4,7 +4,7 @@ from spectrum import choose_MF, occupy_spectrum
 def First_Fit(G, path, min_slots, max_slots, last_slot_75, partitioning):
     """First Fit spectrum assignment"""
 
-    # Find the number of slots avalilable along the path (minimum)
+    # Find the number of slots available along the path (minimum)
     slots_in_band = min([len(G.edges[(a, b)]['spectrum_slots']) 
                          for a, b in zip(path, path[1:])])
     

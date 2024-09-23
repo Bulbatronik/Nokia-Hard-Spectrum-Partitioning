@@ -55,7 +55,7 @@ class RoutingProblem(IntegerProblem):
         self.path_lengths = copy.deepcopy(path_lengths)
         self.src_dst_pair_list = list(self.traffic_dict.keys())
         
-        # Spectrum allocationc optimization problem
+        # Spectrum allocation optimization problem
         self._number_of_objectives = 1
         
         # One variable and one constraint for each demand
