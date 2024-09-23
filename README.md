@@ -39,9 +39,9 @@ In our case, we use [`jMetalPy`](https://github.com/jMetal/jMetalPy) library due
 ### 3. Simulation 
 We perform the simulation over each topology for both algorithms using both partitioning. To analyze the `hard spectrum partitioning` we define a hyperparameter, which controls the percentage of spectrum allocated to 75GHz channels. We continuously increase the number of demands by 50 until the blocking probability exceeds 1%. Since the traffic for each number of demands is random, we perform multiple `Monte Carlo simulations` and record the mean value of the cost and blocking probability with confidence intervals. 
 
-## 4. Results
+### 4. Results
 The final results are presented [this file](materials/Final%20Presentation%20Project%208.pdf). The presentation was held at the office of Nokia and received the maximum grade for the project. 
 
 
-## 5. Miscellaneous
+## Miscellaneous
 The folder `miscellaneous` includes the homework/lab assignments during the course `Communication Network Design` done using [`Net2Plan`](https://www.net2plan.com/) software *with Esat Ince*.
