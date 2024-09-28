@@ -1,6 +1,6 @@
 <h1 align="center">Hard Spectrum Partitioning</h1>
 
-*The project was developed with Ignazio Maria Castrignano in collaboration with [**Nokia BELL LABs Vimercate**](https://www.bell-labs.com/#gref) under the supervision of <ins>Annalisa Morea</ins>.*
+*The project was developed with Ignazio Maria Castrignano in collaboration with [**Nokia BELL LABs Vimercate**](https://www.bell-labs.com) under the supervision of <ins>Annalisa Morea</ins>.*
 
 ## Overview
 
