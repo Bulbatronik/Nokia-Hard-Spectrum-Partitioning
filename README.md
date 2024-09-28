@@ -1,4 +1,8 @@
-<h1 align="center">Hard Spectrum Partitioning</h1>
+
+<h1 align="center">
+  <h1 align="center">Hard Spectrum Partitioning</h1>
+  <img src="https://www.vanillaplus.com/wp-content/uploads/2023/02/NOKIA-new-logo.png" alt="Nokia Logo">
+</h1>
 
 *The project was developed with Ignazio Maria Castrignano in collaboration with [**Nokia BELL LABs Vimercate**](https://www.bell-labs.com) under the supervision of <ins>Annalisa Morea</ins>.*
 
