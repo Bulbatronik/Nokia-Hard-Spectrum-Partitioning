@@ -1,6 +1,5 @@
-
+<h1 align="center">Hard Spectrum Partitioning </h1>
 <h1 align="center">
-  Hard Spectrum Partitioning</h1>
   <img src="https://www.vanillaplus.com/wp-content/uploads/2023/02/NOKIA-new-logo.png" alt="Nokia Logo">
 </h1>
 
