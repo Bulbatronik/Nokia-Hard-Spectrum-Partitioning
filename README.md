@@ -7,7 +7,7 @@
 
 ## Overview
 
-The problem formulation and the assistance for the project was provided by **Nokia BELL LABs Vimercate** within the initiative *Adopt a course* between the companies and Politecnico di Milano.
+The problem formulation and the assistance for the project were provided by **Nokia BELL LABs Vimercate** within the initiative *Adopt a course* between the companies and Politecnico di Milano.
 
 The goal of the project is to assess overall spectral efficiency in a network with multiple channel widths, where the fiber spectrum is hardly divided into 2 sections: 50GHz and 75GHz. For each service, the tool must decide if it is better to route it using modulation formats at 50GHz or 75GHz bandwidth; and the optical channel is routed only in the spectrum part associated with its width. A more illustrative description of the `Routing and Spectrum Allocation (RSA)` problem is provided in [this file](materials/CND_Lab3_2023.pdf).
 
@@ -43,7 +43,7 @@ In our case, we use [`jMetalPy`](https://github.com/jMetal/jMetalPy) library due
 We perform the simulation over each topology for both algorithms using both partitioning. To analyze the `hard spectrum partitioning` we define a hyperparameter, which controls the percentage of spectrum allocated to 75GHz channels. We continuously increase the number of demands by 50 until the blocking probability exceeds 1%. Since the traffic for each number of demands is random, we perform multiple `Monte Carlo simulations` and record the mean value of the cost and blocking probability with confidence intervals. 
 
 ### 4. Results
-The final results are presented [this file](materials/Final%20Presentation%20Project%208.pdf). The presentation was held at the office of Nokia and received the maximum grade for the project. 
+The final results are presented [this file](materials/Final%20Presentation%20Project%208.pdf). The presentation was held at **Nokia**'s office, and the maximum grade for the project was received. 
 
 
 ## Miscellaneous
